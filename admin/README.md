@@ -1,8 +1,11 @@
-# React + Vite
+### Installation Steps
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Clone the repository:
+git clone https://github.com/erinhdsilva/E-Commerce-Website-MERN.git
+cd E-Commerce-Website-MERN/admin
 
-Currently, two official plugins are available:
+## Install dependencies:
+npm install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Start the development server:
+npm run dev
