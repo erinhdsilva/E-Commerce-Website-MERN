@@ -6,7 +6,8 @@ This is a full-stack e-commerce web application built using the MERN stack.
 
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-
+- [Installation](#installation)
+- [Usage](#usage)
 
 ## Features
 
@@ -20,10 +21,7 @@ This is a full-stack e-commerce web application built using the MERN stack.
 
 ### Frontend
 - React.js
-- Redux (for state management)
-- Axios (for API calls)
 - React Router (for routing)
-- Material-UI (for UI components)
 
 ### Backend
 - Node.js
@@ -31,5 +29,17 @@ This is a full-stack e-commerce web application built using the MERN stack.
 - MongoDB
 - Mongoose (for MongoDB object modeling)
 - JWT (for authentication)
-- bcrypt (for password hashing)
+  
+## Installation
+Instructions have been given in the individual folders.
 
+### Prerequisites
+
+- Node.js (>= 14.x.x)
+- MongoDB (>= 4.x.x)
+
+### Usage
+Ensure MongoDB is running on your local machine.
+Start the backend server.
+Start the frontend development server.
+Open your browser and navigate to http://localhost:3000.
