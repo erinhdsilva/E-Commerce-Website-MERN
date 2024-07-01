@@ -1,0 +1,12 @@
+.admin {
+    display: flex;
+    flex-wrap: wrap; /* Ensure items wrap to new lines when necessary */
+  }
+  
+  @media (max-width: 800px) {
+    .admin {
+      flex-direction: column; /* Stack items vertically on smaller screens */
+      align-items: center; /* Center items vertically in column layout */
+    }
+  }
+  
